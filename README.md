@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sleepypancake
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking for a good job
 - 📫 How to reach me on Telegram: t.me/anastasiabrikun
 
