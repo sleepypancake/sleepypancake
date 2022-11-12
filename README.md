@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking for a good job
-- 📫 How to reach me on Telegram: t.me/anastasiabrikun
+- 📫 How to reach me on Telegram: t.me/anastasiamelkumova
 
 <!---
 sleepypancake/sleepypancake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
